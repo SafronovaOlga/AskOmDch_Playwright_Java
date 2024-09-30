@@ -1,0 +1,1 @@
+package pages;import com.microsoft.playwright.Page;public class LoginPage{    public LoginPage( Page page ){ }        public void navigateTo( String url ){        }        public HomePage login( String mail,String password123 ){        return null;    }       }

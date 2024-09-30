@@ -1,0 +1,1 @@
+package pages;public class HomePage{    private String welcomeMessage;        public String getWelcomeMessage (){                return welcomeMessage;            }    }
