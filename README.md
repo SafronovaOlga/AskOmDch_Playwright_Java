@@ -4,6 +4,7 @@ This is a Playwright testing project written in Java following the Page Object M
 The project automates testing of a Magento e-commerce website (https://askomdch.com/). 
 It demonstrates the use of Playwright for web automation and testing, utilizing Java for structuring the project.
 
+```
 .
 ├── src
 │   ├── main
@@ -21,4 +22,4 @@ It demonstrates the use of Playwright for web automation and testing, utilizing 
 |                     |__ SearchPageTest.java
 ├── pom.xml
 └── README.md
-
+```
